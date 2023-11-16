@@ -5,7 +5,10 @@ const config: CapacitorConfig = {
   appName: 'Yorge000',
   webDir: 'dist',
   server: {
-    androidScheme: 'https'
+    androidScheme: 'https',
+    
+    
+
   }
 };
 
